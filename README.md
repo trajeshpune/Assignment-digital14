@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## I took 8-10hrs to complete this test.
 ## There are many things to improve this test. Because of short of time I could not do that.
-## I can improve the refine. 
-## On search loading image can be shown
-## Message when restaurant is added to favourite / Remove from favourite
+## I could improve the refine filter. 
+## On search loading image can be shown.
+## Message when restaurant is added to favourite / Remove from favourite / Already exist.
